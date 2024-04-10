@@ -1,0 +1,1 @@
+docker container run -d -p 3035:3035 -e MONGO_INITDB_ROOT_USERNAME=mongo_usr -e MONGO_INITDB_ROOT_PASSWORD=mongo_pwd mongo
